@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lotfullah21
+- 👋 Hi, I’m Lotfullah
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on computer vision and Machine learning projects
